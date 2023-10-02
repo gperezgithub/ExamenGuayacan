@@ -1,0 +1,6 @@
+"Id_cliente","Numero_Asociado","Nombre1","Nombre2","Nombre3","Apellido1","Apellido2","Fecha_Nacimiento","DPI","Rtu","Numero_Cuenta","Direccion","Referencia_Direccion","Telefono1","Telefono2","Correo_Electronico"
+"2","456548","Carmen","Cecilia",,"cardona","perez","1994-06-22","1234567891234","54135157",,"colonia brisas","a la par boutique","45654579",,"mg@gmail.com"
+"Id_empleado","Nombre1","Nombre2","Nombre3","Apellido1","Apellido2","Fecha_Nacimiento","Departamento","Inicio_Labores","Sueldo"
+"Id_producto","Tipo_Producto","Description"
+"Id_productoCliente","Id_cliente","Id_empleado","Id_producto","Fecha_Inicio","Fecha_Final"
+"Id_usuario","Id_empleado","Usuario","Contraseña"
